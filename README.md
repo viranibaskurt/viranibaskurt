@@ -1,5 +1,5 @@
 ### Hi there 👋
-<iframe src="https://itch.io/embed/1014358" height="167" width="552" frameborder="0"><a href="https://srknvrnbskrt.itch.io/lost-in-couch">Lost In Couch by srknvrnbskrt</a></iframe>
+
 <!--
 **viranibaskurt/viranibaskurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
